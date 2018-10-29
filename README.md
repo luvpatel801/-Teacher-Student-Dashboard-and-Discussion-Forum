@@ -1,5 +1,5 @@
 # -Teacher-Student-Dashboard-and-Discussion-Forum
-Worked Remotely during Summer Internship at Webcode Solutions as Full Stack Web Developer. 
+Worked Remotely during Summer Internship at Webcods Solutions as Full Stack Web Developer. 
 Created and enhanced the website (Teacher-Student Dashboard and Discussion Forum) for this company. 
 Website was built using HTML5, CSS3, Bootstrap, PHP, JavaScript and MySQL Database. 
 
