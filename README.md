@@ -13,7 +13,7 @@ The Student Dashboard consists of features like:
 7) Answer/Post Doubts on Discussion Forum
 8) Give exams set up by Teachers of repective courses
 9) Check for important Notifications and Updates on Notice Board posted by each teacher.
-
+10) Logout from the Portal
 
 The Teacher Dashboard consists of features like: 
 1) Register into Portal
@@ -27,3 +27,11 @@ The Teacher Dashboard consists of features like:
 9) Post important Notifications and Updates on Notice Board.
 10) Upload Student Performance Marks
 11) Upload Student Attendance Details
+12) Logout from the Portal
+
+The Administrator Dashboard consists of common features:
+1) Register at the Portal
+2) Login into the Portal
+3) Registration Fees Structure and Payment
+4) Exam Fees Structure and Payment
+5) Logout from the Portal 
