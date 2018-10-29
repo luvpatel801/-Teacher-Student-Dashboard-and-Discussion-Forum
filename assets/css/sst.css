@@ -1,0 +1,219 @@
+<style type="text/css">
+			/* menu */
+
+                    #templatemo_menu_wrapper {
+                      width: 100%;
+                      height: 120px;
+                      margin: 0 auto;
+                      background: url(images/templatemo_menu3.jpg) repeat-x;
+                    }
+
+                    #templatemo_menu {
+                      width: 1520px;
+                      height: 150px;
+                      margin-left: 50px;
+                      margin-right: 40px;
+                      /*margin: 0 auto;*/
+                      padding: 0 30px;
+                      
+                    }
+
+                    #templatemo_menu ul {
+                      float: center;
+                      margin: 0px;
+                      padding: 0px;
+                      list-style: none;
+                    }
+
+                    #templatemo_menu ul li {
+                      padding: 0px;
+                      margin: 10px;
+                      display: inline;
+                      height: 50px;
+                    }
+
+                    #templatemo_menu ul li a {
+                      position: relative;
+                      float: left;
+                      width: 160px;
+                      display: block;
+                      height: 70px;
+                      padding: 0px 0 20px 0;
+                      text-align: center;
+                      font-size: 12px;
+                      text-decoration: none;
+                      color: #333333; 
+                      font-weight: bold;
+                      outline: none;
+                    }
+
+                    #templatemo_menu li a:hover, #templatemo_menu li .current {
+                      color: #008400;
+                      /*background: url(images/templatemo_menu_hover.jpg) bottom no-repeat;*/
+                    }
+                  /* end of menu */
+
+                  /* menu_C */
+
+                    #templatemo_menu_wrapper {
+                      width: 100%;
+                      height: 120px;
+                      margin: 0 auto;
+                      background: url(images/templatemo_menu3.jpg) repeat-x;
+                    }
+
+                    #templatemo_menu_C {
+                      width: 920px;
+                      height: 150px;
+                      margin-left: 250px;
+                      margin-right: 40px;
+                      /*margin: 0 auto;*/
+                      padding: 0 30px;
+                      
+                    }
+
+                    #templatemo_menu_C ul {
+                      float: center;
+                      margin: 0px;
+                      padding: 0px;
+                      list-style: none;
+                    }
+
+                    #templatemo_menu_C ul li {
+                      padding: 0px;
+                      margin: 10px;
+                      display: inline;
+                      height: 50px;
+                    }
+
+                    #templatemo_menu_C ul li a {
+                      position: relative;
+                      float: left;
+                      width: 150px;
+                      display: block;
+                      height: 70px;
+                      padding: 0px 0 20px 0;
+                      text-align: center;
+                      font-size: 12px;
+                      text-decoration: none;
+                      color: #333333; 
+                      font-weight: bold;
+                      outline: none;
+                    }
+
+                    #templatemo_menu_C li a:hover, #templatemo_menu_C li .current {
+                      color: #008400;
+                      background: url(images/templatemo_menu_hover.jpg) bottom no-repeat;
+                    }
+                  /* end of menu */
+
+                  /* menu_T */
+
+                    #mobile-nav ul .menu-has-children i {
+                      position: absolute;
+                      right: 0;
+                      z-index: 99;
+                      padding: 15px;
+                      cursor: pointer;
+                      color: #fff;
+                    }
+
+                    #mobile-nav ul .menu-has-children i.fa-chevron-up {
+                      color: #03C4EB;
+                    }
+
+
+                    #templatemo_menu_wrapper {
+                      width: 100%;
+                      height: 120px;
+                      margin: 0 auto;
+                      /*background: url(images/templatemo_menu3.jpg) repeat-x;*/
+                    }
+
+                    #templatemo_menu_T {
+                      width: 1650px;
+                      height: 150px;
+                      margin-left: 0px;
+                      margin-right: 0px;
+                      /*margin: 0 auto;*/
+                      padding: 0 00px;
+                      
+                    }
+
+                    #templatemo_menu_T ul {
+                      float: center;
+                      margin: 0px;
+                      padding: 0px;
+                      list-style: none;
+                    }
+
+                    #templatemo_menu_T ul li {
+                      padding: 0px;
+                      margin: 10px;
+                      display: inline;
+                      height: 50px;
+                    }
+
+                    #templatemo_menu_T ul li a {
+                      position: relative;
+                      float: left;
+                      width: 125px;
+                      display: block;
+                      height: 70px;
+                      padding: 0px 0 20px 0;
+                      text-align: center;
+                      font-size: 10px;
+                      text-decoration: none;
+                      color: #333333; 
+                      font-weight: bold;
+                      outline: none;
+                    }
+
+                    #templatemo_menu_T li a:hover, #templatemo_menu_T li .current {
+                      color: #008400;
+                      background: url(images/templatemo_menu_hover.jpg) bottom no-repeat;
+                    }
+
+                    .current
+                  /* end of menu */
+
+ /* footer */
+
+                  #templatemo_footer_wrapper {
+                    width: 100%;
+                    margin: 0 auto;
+                    background: #fff url(images/templatemo_footer_top.jpg) top repeat-x;  
+                  }
+
+                  #templatemo_footer {
+                    width: 920px;
+                    margin: 0 auto;
+                    padding: 30px;
+                    text-align: center;
+                    color: #7c7471;
+                  }
+
+                  #templatemo_footer a {
+                    color: #333333;
+                  }
+
+                  #templatemo_footer .footer_menu {
+                    margin: 0 0 10px 0;
+                    padding: 0px;
+                    list-style: none;
+                  }
+
+                  .footer_menu li {
+                    margin: 0px;
+                    padding: 0 20px;
+                    display: inline;
+                    border-right: 1px solid #333333;
+                  }
+
+                  .footer_menu .last_menu {
+                    border: none;
+                  }
+
+          /* end of footer */
+
+		</style>

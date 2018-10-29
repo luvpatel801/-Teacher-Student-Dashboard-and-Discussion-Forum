@@ -1,0 +1,13 @@
+/* Tables
+========================================================================== */
+/* to add S.No. as the first column of the table */
+table.list
+{
+    counter-reset:line-number
+}
+
+table.list td:first-child:before
+{
+    content:counter(line-number)". ";
+    counter-increment:line-number
+}
